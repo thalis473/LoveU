@@ -1,0 +1,13 @@
+.d-block{
+    width: 100%;
+    height: 100%;
+}
+#valor01{
+    text-decoration: line-through;
+}
+.fa-shopping-bag{
+    color: rgb(223, 16, 16);
+    
+    height: 200px ;
+}
+

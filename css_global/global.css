@@ -1,0 +1,26 @@
+.confcss{
+    background-color: pink;
+}
+
+ #logo{
+     width: 70px;
+     height: 70px;
+     
+ }
+
+ .backcolor{
+    background-color: pink;
+ } 
+ #buttonex{
+ color:darkblue;
+
+ }
+ .img_forma_de_pagamentos{
+    width:70%;
+    height: 100px; 
+}
+ 
+.topico{
+    padding-left:20px ;
+   
+}

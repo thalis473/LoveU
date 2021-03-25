@@ -1,0 +1,30 @@
+body{
+    background-color:white ;
+}
+
+img{
+    width:50%;
+    height: 100px;
+}
+
+.jumbotron-with-background {
+    background-image:url('../paginas/imagens/verao01.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+   /* background-size: cover;*/
+    background-attachment: fixed; 
+    height:500px;
+   
+    
+}
+
+.cardmanho{
+    width: 30%;
+    opacity: 0.6;
+   
+}
+
+
+.card-img-top{
+    height: 300px;
+}
